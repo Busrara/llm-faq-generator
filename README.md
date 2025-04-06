@@ -14,3 +14,5 @@ With this project, you can automatically generate FAQs and answers from a websit
 ### 1. Clone the Repository
 git clone https://github.com/busraracoban/llm-faq-generator.git
 cd llm-faq-generator
+
+I highly suggest to read my Medium writing on this specific project for further understanding: https://medium.com/@busraracoban/build-your-ai-powered-faq-generator-with-langchain-and-hugging-face-2399ccd4cb7d 
